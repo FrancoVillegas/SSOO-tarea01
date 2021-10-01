@@ -78,3 +78,9 @@ Se usó como búsqueda **"Variables de entorno Linux"**. Rescatando la informaci
 
 1. [https://www.hostinger.es/tutoriales/variables-de-entorno-linux-como-leerlas-y-configurarlas-vps#:~:text=el%20que%20trabajan!-,%C2%BFQu%C3%A9%20son%20las%20variables%20de%20entorno%20de%20Linux%3F,%2C%20editar%2C%20guardar%20y%20eliminar.](https://www.hostinger.es/tutoriales/variables-de-entorno-linux-como-leerlas-y-configurarlas-vps#:~:text=el%20que%20trabajan!-,%C2%BFQu%C3%A9%20son%20las%20variables%20de%20entorno%20de%20Linux%3F,%2C%20editar%2C%20guardar%20y%20eliminar.)
 2. [https://blog.carreralinux.com.ar/2020/05/variables-de-entorno-en-linux/](https://blog.carreralinux.com.ar/2020/05/variables-de-entorno-en-linux/)
+
+### f) 
+
+Para la realización de esta pregunta primero que todo se buscó información sobre los argumentos de entrada en un código bash [1]. Posteriormente con el apoyo del material de clases se obtuvo la información sobre cómo mostrar la información de un proceso. Finalmente se implemento lo entendido en código bash, generando un script que cumple con las características solicitadas.
+
+1. [https://poesiabinaria.net/2016/04/como-procesar-multiples-argumentos-de-entrada-en-scripts-para-bash/](https://poesiabinaria.net/2016/04/como-procesar-multiples-argumentos-de-entrada-en-scripts-para-bash/)
